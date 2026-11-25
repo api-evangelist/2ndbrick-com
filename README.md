@@ -66,7 +66,7 @@
 
 2nd Brick designs custom LEGO brick sets for businesses, from logos and mascots to client gifts. Send a brief for a design by email in 12–24 hours, or design your own with AI. The service offers quick turnaround, AI‑assisted design tools, and a studio for ordering finished kits, targeting corporate branding, promotional gifts, and personal projects.
 
-**Areas:** custom · lego · design · ecommerce · ai
+**Areas:** Custom · LEGO · Design · E-Commerce · Artificial Intelligence
 
 ## 2nd Brick on APIs.io
 
@@ -80,17 +80,23 @@ Everything profiled for 2nd Brick is published on APIs.io rather than in this re
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [2ndbrick-com-mcp.yml](https://apis.io/servers/2ndbrick-com/2ndbrick-com-mcp-yml/)
+
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [2Ndbrick Com Domain Security](https://apis.io/security/2ndbrick-com/2ndbrick-com-domain-security/)
+- [2nd Brick Domain Security](https://apis.io/security/2ndbrick-com/2ndbrick-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [2Ndbrick Com Plans Pricing](https://apis.io/plans/2ndbrick-com/2ndbrick-com-plans-pricing/)
+- [2nd Brick Plans Pricing](https://apis.io/plans/2ndbrick-com/2ndbrick-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -106,18 +112,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 22.6** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 23.3** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 71.7 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 14.3 |
-| Access clarity | 63.7 |
+| Access clarity | 68.1 |
 
-**Agent readiness 17.5** — agent-aware
+**Agent readiness 19.2** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -138,12 +144,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Dry Run Mode | — |
 | Delegated Identity | served (partial credit) |
 | Protected Resource Metadata | verified |
-| Dynamic Client Registration | — |
+| Dynamic Client Registration | yes |
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/2ndbrick-com/](https://apis.io/providers/2ndbrick-com/).
 
